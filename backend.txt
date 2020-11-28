@@ -1,1 +1,9 @@
 archivo para desarrolladores backend
+CLASE 3 : FLUJOS DE TRABAJO
+ESTRATEGIAS DE UNIFICACIÓN : REUBICACIÓN
+Como vimos en clases anteriores, en GIT existen dos maneras de integrar cambios de un
+branch en otro : merge y rebase . La manera más sencilla y popular de fusionar nuestro
+trabajo nuevo con trabajo ya existente dentro de nuestro proyecto es la de realizar un merge ,
+el cual realizará una fusión a tres bandas entre los dos últimos snapshots de cada rama que
+queremos integrar, en el caso en donde tengamos ramas bifurcadas y su ancestro común;
+de esta manera GIT nos va a crear un nuevo snapshot y su correspondiente commit.
