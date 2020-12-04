@@ -1,7 +1,4 @@
-importar tkinter como tk
-desde tkinter import ttk
-desde el cuadro de mensaje de importación de tkinter
-importar sys
+
  
  
 ##############################
