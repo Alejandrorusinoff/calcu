@@ -1,8 +1,3 @@
-
- 
- 
-##############################
- 
 def convertir (dato):
 	tratar:
 		dato = int (dato)
